@@ -1,1 +1,2 @@
 The panoramic view is displayed on the vehicle's in-dash display with clear resolution and appropriate viewing angles
+Design user interface elements for selecting different viewing modes
